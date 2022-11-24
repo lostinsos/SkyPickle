@@ -15,6 +15,17 @@
                 "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar"
             ],
             "fileSize": 284929
+        },
+        {
+            "path": "mods/BazaarNotifier-1.4.12.jar",
+            "hashes": {
+                "sha1": "ff4da5cdde15c2bda7bef2c2437824b642e7b65c",
+                "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
+            },
+            "downloads": [
+                "https://github.com/symt/BazaarNotifier/releases/download/1.4.12/BazaarNotifier-1.4.12.jar"
+            ],
+            "fileSize": 121912
         }
     "dependencies": {
         "minecraft": "1.8.9",

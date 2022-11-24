@@ -1,0 +1,23 @@
+{
+    "formatVersion": 1,
+    "game": "minecraft",
+    "versionId": "0.1",
+    "name": "SkyPickle",
+    "summary": "A modpack for Hypixel Skyblock.",
+    "files": [
+        {
+            "path": "mods/apec-1.10.3.jar",
+            "hashes": {
+                "sha1": "7acb2a6bad7a576eceb8f62e1fdf45de04732c30",
+                "sha512": "8b1d27e2c1af280a81c4d6b44d8483fe2b6300ea782e5941217b5e459f19517016fc025460cf85ca9d2cc8d2c78752945278e77c8ff440e220c629985c965136"
+            },
+            "downloads": [
+                "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar"
+            ],
+            "fileSize": 284929
+        }
+    "dependencies": {
+        "minecraft": "1.8.9",
+        "forge": "11.15.1.2318"
+    }
+}

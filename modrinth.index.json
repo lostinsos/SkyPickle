@@ -1,34 +1,35 @@
 {
-    "formatVersion": 1,
-    "game": "minecraft",
-    "versionId": "0.1",
-    "name": "SkyPickle",
-    "summary": "A modpack for Hypixel Skyblock.",
-    "files": [
-        {
-            "path": "mods/apec-1.10.3.jar",
-            "hashes": {
-                "sha1": "7acb2a6bad7a576eceb8f62e1fdf45de04732c30",
-                "sha512": "8b1d27e2c1af280a81c4d6b44d8483fe2b6300ea782e5941217b5e459f19517016fc025460cf85ca9d2cc8d2c78752945278e77c8ff440e220c629985c965136"
-            },
-            "downloads": [
-                "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar"
-            ],
-            "fileSize": 284929
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "0.1",
+  "name": "SkyPickle",
+  "summary": "A modpack for Hypixel Skyblock.",
+  "files": [
+    {
+        "path": "mods/apec-1.10.3.jar",
+        "hashes": {
+            "sha1": "7acb2a6bad7a576eceb8f62e1fdf45de04732c30",
+            "sha512": "8b1d27e2c1af280a81c4d6b44d8483fe2b6300ea782e5941217b5e459f19517016fc025460cf85ca9d2cc8d2c78752945278e77c8ff440e220c629985c965136"
         },
-        {
-            "path": "mods/BazaarNotifier-1.4.12.jar",
-            "hashes": {
-                "sha1": "ff4da5cdde15c2bda7bef2c2437824b642e7b65c",
-                "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
-            },
-            "downloads": [
-                "https://github.com/symt/BazaarNotifier/releases/download/1.4.12/BazaarNotifier-1.4.12.jar"
-            ],
-            "fileSize": 121912
-        }
-    "dependencies": {
-        "minecraft": "1.8.9",
-        "forge": "11.15.1.2318"
+        "downloads": [
+            "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar"
+        ],
+        "fileSize": 284929
+    },
+    {
+        "path": "mods/BazaarNotifier-1.4.12.jar",
+        "hashes": {
+            "sha1": "ff4da5cdde15c2bda7bef2c2437824b642e7b65c",
+            "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
+        },
+        "downloads": [
+            "https://github.com/symt/BazaarNotifier/releases/download/1.4.12/BazaarNotifier-1.4.12.jar"
+        ],
+        "fileSize": 121912
     }
+  ],
+  "dependencies": {
+    "minecraft": "1.8.9",
+    "forge": "11.15.1.2318"
+  }
 }

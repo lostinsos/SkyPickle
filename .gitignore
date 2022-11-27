@@ -2,3 +2,4 @@ hashes.json
 *.mrpack
 overrides
 media
+gethashes.py

@@ -39,6 +39,28 @@
         "fileSize": 121912
     },
     {
+        "path": "mods/Chatting-1.4.1.jar",
+        "hashes": {
+            "sha1": "a1075889d498154dd1a5e4ec76a4b86cecdcde7d",
+            "sha512": "cfebe66cb7de60d9aafd092ccbd421f6172efb930179ebbe1262119dd5f6429875e67e0683ec8408dbf779892c2680032edc6e5b70f2d29328f2a2d3416bf417"
+        },
+        "downloads": [
+            "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar"
+        ],
+        "fileSize": 168180
+    },
+    {
+        "path": "mods/Cowlection-1.8.9-0.15.0.jar",
+        "hashes": {
+            "sha1": "4e5339a5d4ec05a81b7fac7c4c21475e3794e06f",
+            "sha512": "06070d3077c96e9c7abad0d238383c46fb3240621c0a0902d12921b7ce5c19b3896c26843b93c5787d211c3b546595164c2de75d2b77bd10ecf3a81dcacc9218"
+        },
+        "downloads": [
+            "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.0/Cowlection-1.8.9-0.15.0.jar"
+        ],
+        "fileSize": 468287
+    },
+    {
         "path": "mods/Essential-forge_1-8-9.jar",
         "hashes": {
             "sha1": "d1340b53e674fffb0bc26a15ac2cad3f9cb4614e",

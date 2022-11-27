@@ -28,6 +28,17 @@
         "fileSize": 284929
     },
     {
+      "path": "mods/Autotip-3.0.1 [1.8-1.12.2].jar",
+      "hashes": {
+          "sha1": "94fe4ad756aee3d29175fc7f8c3781bedcff6262",
+          "sha512": "717fc39a6a6e5857437403e33b9ec38a4d21f31f7bf84c00b1c6414473aaeeb69b35526d271ef8bebd0a27753b23ee4c880c4bb19f30d433e7541cec4ed67cde"
+        },
+      "downloads": [
+          "https://dl.autotip.pro/3.0.1"
+      ],
+      "fileSize": 142998
+    },
+    {
         "path": "mods/BazaarNotifier-1.4.12.jar",
         "hashes": {
             "sha1": "ff4da5cdde15c2bda7bef2c2437824b642e7b65c",
@@ -70,6 +81,17 @@
             "https://cdn.modrinth.com/data/k2ZPuTBm/versions/1.0.0/Essential-forge_1-8-9.jar"
         ],
         "fileSize": 26778
+    },
+    {
+        "path": "mods/FpsReducer-mc1.8.9-1.10.3.jar",
+        "hashes": {
+            "sha1": "3f668578543aaea62195890b7a5a9c6c1272317e",
+            "sha512": "f832d41a4c8fc1baca6107a711638f007e2974960cdb07e9a7d9f5df4e58dce81c362f12a2bb55436a8d3b75eea2f966d85930bf8162bd0787e2cace0293db22"
+        },
+        "downloads": [
+            "https://mediafilez.forgecdn.net/files/2627/304/FpsReducer-mc1.8.9-1.10.3.jar"
+        ],
+        "fileSize": 43481
     }
   ],
   "dependencies": {

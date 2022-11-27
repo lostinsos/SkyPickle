@@ -1,2 +1,4 @@
-hashes.txt
+hashes.json
 *.mrpack
+overrides
+media

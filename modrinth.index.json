@@ -50,6 +50,18 @@
         "fileSize": 121912
     },
     {
+        "path": "mods/BetterTab-2.1.jar",
+        "hashes": {
+            "sha1": "ca9fc948906425db202b665e7f8f90115295c9f8",
+            "sha512": "397b927cc5a2be53de73fc64ca2fc6a8d455eccffa3f87897415b775d221770c473922e3435a966c938457188d0e5db000cd467c46ff4c65b172395d976ba610"
+        },
+        "downloads": [
+            "https://download1474.mediafire.com/np84k6o8g6mg/ayqehcdgx09h6ut/Better_Tab_2.1.jar",
+            "https://files.catbox.moe/q3wuna.mod"
+        ],
+        "fileSize": 31286
+    },
+    {
         "path": "mods/Chatting-1.4.1.jar",
         "hashes": {
             "sha1": "a1075889d498154dd1a5e4ec76a4b86cecdcde7d",

@@ -218,6 +218,17 @@
       "fileSize": 14838
     },
     {
+      "path": "mods/JoypadMod-1.8.9-11.15.1.1722.jar",
+      "hashes":{
+          "sha1": "f3f27525fd7dc73970aeda40561a993d67446e31",
+          "sha512": "14bdf53d64af06880ed682bda9a52c3b4d24e31ab767a0125b3ee42f1a8f58f462e4bfd819aa25b09dd619953327f86ace4dcca4a5502aed17702d8eb485149f"
+      },
+      "downloads": [
+          "https://files.catbox.moe/d2tdbz.mod"
+      ],
+      "fileSize": "3383342"
+    },
+    {
       "path": "mods/Nick Hider-6.0.2 (1.8.9).jar",
       "hashes": {
           "sha1": "b62fa4899b69b803237c791f5f176565ab72310a",

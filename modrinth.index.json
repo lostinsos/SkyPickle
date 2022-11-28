@@ -352,6 +352,17 @@
       "fileSize": 13137555
     },
     {
+      "path": "mods/SimpleToggleSprint-2.2.0.jar",
+      "hashes": {
+          "sha1": "cfa6aa4a86eb979f51ba46ab4a63b80115fcaca1",
+          "sha512": "18395105d42b58fc021a5b6ef3cb6686cc555b414b873ea2902a1c81341a699f908bd6f356c223b44322ba46cab02dcc51690bd43d3a7404ca530b40a4d29faa"
+      },
+      "downloads": [
+          "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar"
+      ],
+      "fileSize": 97846
+    },
+    {
       "path": "mods/SmoothScrollingEverywhere-1.2.jar",
       "hashes": {
           "sha1": "0e1602d2b6951848f70bdf93435f10e70f5f2561",

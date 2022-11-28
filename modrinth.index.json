@@ -12,7 +12,8 @@
             "sha512": "6285c62c92cf888098be171272f7d49bd83a1fce334137f0d9e6abba1e2141ad4e6a2475c19ac6efa2e25dfe347d4ca4ee4def41b31cd18a499e95edde50b9f9"
         },
         "downloads": [
-            "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
+            "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
+            "https://mediafilez.forgecdn.net/files/3779/886/3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
         ],
         "fileSize": 4032173
     },
@@ -50,6 +51,17 @@
         "fileSize": 121912
     },
     {
+        "path": "mods/betterchat-1.5.jar",
+        "hashes": {
+            "sha1": "ea8b9a98c8df2aa39b589284640105bd8ac989f7",
+            "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
+        },
+        "downloads": [
+            "https://mediafilez.forgecdn.net/files/3249/65/betterchat-1.5.jar"
+        ],
+        "fileSize": 998748
+    },
+    {
         "path": "mods/BetterTab-2.1.jar",
         "hashes": {
             "sha1": "ca9fc948906425db202b665e7f8f90115295c9f8",
@@ -84,15 +96,61 @@
         "fileSize": 468287
     },
     {
+        "path": "mods/CrashHelper-1.1.2.jar",
+        "hashes": {
+            "sha1": "9c69cf32489641073eebf1d68fe5101e2504e39b",
+            "sha512": "512e37ff97690c62479bab81281c1d5b772d20dad5fbce6f16ba4fd38017dab28647d66d119807bb61938bee589d9f9f49e54990234d64bde3fa7f16de101a13"
+        },
+        "downloads": [
+            "https://dl.isxander.dev/mods/crashhelper/CrashHelper-1.1.2.jar"
+        ],
+        "fileSize": 5331143
+    },
+    {
+        "path": "mods/CrashPatch-1.4.0.jar",
+        "hashes": {
+            "sha1": "3d2f6afadec0b1a93334dd35cb6c62c7c622bce2",
+            "sha512": "476fc2f2fdb08b1b5e9296525f305a1c239cfe40b1ae34c8affc2f28c7dd669c53933be293d6a12a9d565de4155317ec7389e8d0dcc27ca824ad135fdda4038a"
+        },
+        "downloads": [
+            "https://github.com/Polyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar"
+        ],
+        "fileSize": 145584
+    },
+    {
+        "path": "mods/CustomMainMenu-MC1.8.9-2.0.jar",
+        "hashes": {
+            "sha1": "a87041d6f98fa9364648f84cfefe10f4b4c0f308",
+            "sha512": "501371d9a1b8883756c1cc19ea0a585260c2ff64c1d402a09bc8110c2de13e263942b2eeee15d3961d417223d0adbd5b5dddf8f601c250873e5d01312d266c9c"
+        },
+        "downloads": [
+            "https://mediafilez.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar"
+        ],
+        "fileSize": 169801
+    },
+    {
         "path": "mods/Essential-forge_1-8-9.jar",
         "hashes": {
             "sha1": "d1340b53e674fffb0bc26a15ac2cad3f9cb4614e",
             "sha512": "be64557f664440d806cb65d0c6ec80da25b98a6b3272ab6e605259336c14562f7567df06896f788a4b43724732dafd341af1a0cb4b00dbdd3b7fa6f70a223587"
         },
         "downloads": [
-            "https://cdn.modrinth.com/data/k2ZPuTBm/versions/1.0.0/Essential-forge_1-8-9.jar"
+            "https://cdn.modrinth.com/data/k2ZPuTBm/versions/1.0.0/Essential-forge_1-8-9.jar",
+            "https://mediafilez.forgecdn.net/files/3545/471/Essential-Forge-1.8.9.jar"
         ],
         "fileSize": 26778
+    },
+    {
+        "path": "mods/EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
+        "hashes": {
+            "sha1": "5e42923b897e1a434ee83ddf2ba70b20aacc715f",
+            "sha512": "42075540a97cb284467e5d1439a0e91dcec305169472615e2d7691ee990796280cc3c634bbae72e219fe3699651d22c7546e337c088ee20803655a168b6fea71"
+        },
+        "downloads": [
+            "https://cdn.modrinth.com/data/1yIQcc2b/versions/1.4.0/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar",
+            "https://mediafilez.forgecdn.net/files/3655/289/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar"
+        ],
+        "fileSize": 2263721
     },
     {
         "path": "mods/FpsReducer-mc1.8.9-1.10.3.jar",
@@ -104,6 +162,61 @@
             "https://mediafilez.forgecdn.net/files/2627/304/FpsReducer-mc1.8.9-1.10.3.jar"
         ],
         "fileSize": 43481
+    },
+    {
+        "path": "mods/Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "hashes": {
+            "sha1": "bfd8bc0eced4cf27dccb6f721ef6b41e4abea298",
+            "sha512": "729c4af4afac13dd928fdac9cc57cd185a74ef16dd2f5724636d8fa27e45093934ff477d16a37aad29b8ad3bdb55817e65d53d7b6ad965ef95a95cc9ca7b95a5"
+        },
+        "downloads": [
+            "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
+        ],
+        "fileSize": 46566
+    },
+    {
+        "path": "mods/Hytils-Reborn-1.5.0.jar",
+        "hashes": {
+            "sha1": "aa37bbbe66bafebc5226bdcca87824bce9476fb5",
+            "sha512": "4f6895954f8779e22c2388ccf60398d47febb31500ac01fae2f1dddcd18a404fdaea2beb7e540cddd40a98fc2b103a9d08777e617faa6854b0e2a87035b43a89"
+        },
+        "downloads": [
+            "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar"
+        ],
+        "fileSize": 298486
+    },
+      {
+        "path": "mods/Insomnia-1.0-REL.jar",
+        "hashes": {
+            "sha1": "b65fd1c54a8e385a9826c41fadd19ba1c41c6316",
+            "sha512": "1a8c1adcb43335f692495fbbd24899fa114179d76132aa660d3312a8825928fed1cb135d2e229fd827ce29756d6db0cb148a6ea162e2072f040eb75e978bd943"
+        },
+        "downloads": [
+            "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar"
+        ],
+        "fileSize": 983969
+    },
+    {
+        "path": "mods/ItemPhysic Lite 1.3.jar",
+        "hashes": {
+            "sha1": "8f06ce3931e0356b796202f0ed1d85dcaad371e3",
+            "sha512": "ada00643de30811ae3c22ad70226ae095566124a5b01237bf7b53eebb18cc47ec95df9c769c66e20a4163e83d1b2feffad9040ecdea329b20ffe8ae64cdfe4dd"
+        },
+        "downloads": [
+            "https://mediafilez.forgecdn.net/files/2439/695/ItemPhysic%20Lite%201.3%20mc1.8.9.jar"
+        ],
+        "fileSize": 30766
+    },
+    {
+      "path": "mods/itlt-1.8.8-9-1.0.2.jar",
+      "hashes": {
+          "sha1": "b651daa98b38df9736046104e691803edbe632d3",
+          "sha512": "cc6c8d813abde955a4489b58196718ab1774ba10a322e5137ef3f6adbddd492a5915054c33643a3b2e3f066c712249fdbb0f774d970a8dc6f5b89258de43db4f"
+      },
+      "downloads": [
+          "https://mediafilez.forgecdn.net/files/3624/343/itlt-1.8.8-9-1.0.2.jar"
+      ],
+      "fileSize": 14838
     }
   ],
   "dependencies": {

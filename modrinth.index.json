@@ -303,20 +303,10 @@
             "sha512": "513fd9753fde565fb87790d28178260cdccd71062cafc002d62c90cea22cbf44728a0731e9e882f42143c3a001d7226dcfb11246d5b464f9f0ba438e67778ca4"
         },
         "downloads": [
-            "https://download2298.mediafire.com/wlxj2r28p8tg/99ivjduqwglc7t7/Resource_Pack_Manager_1.2.jar"
+            "https://download2298.mediafire.com/wlxj2r28p8tg/99ivjduqwglc7t7/Resource_Pack_Manager_1.2.jar",
+            "https://files.catbox.moe/a19gho.mod"
         ],
         "fileSize": 46475
-    },
-    {
-      "path": "mods/Resource_Pack_Manager_1.2.jar",
-      "hashes": {
-          "sha1": "f63fadf325c5018e5ea2c312525ba8975b3424b1",
-          "sha512": "513fd9753fde565fb87790d28178260cdccd71062cafc002d62c90cea22cbf44728a0731e9e882f42143c3a001d7226dcfb11246d5b464f9f0ba438e67778ca4"
-      },
-      "downloads": [
-          ""
-      ],
-      "fileSize": 46475
     },
     {
       "path": "mods/Scrollable Tooltips-1.4 (1.8.9).jar",
@@ -402,7 +392,8 @@
           "sha512": "c7e12e5018adae1eac64e2e8436ae5e624de085ece9d41cfd3499978da59451549290bc847f96c35c9257a016cc5eb9f983578a78039ff9c1255369d519705a2"
       },
       "downloads": [
-          "https://download947.mediafire.com/8da8n2fgnueg/i0v0iqnqe8xc49y/Waypoints_1.0.jar"
+          "https://download947.mediafire.com/8da8n2fgnueg/i0v0iqnqe8xc49y/Waypoints_1.0.jar",
+          "https://files.catbox.moe/x6tqq4.mod"
       ],
       "fileSize": 41764
     }

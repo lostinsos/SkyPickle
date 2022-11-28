@@ -218,6 +218,194 @@
       ],
       "fileSize": 14838
     }
+    {
+      "path": "mods/Nick Hider-6.0.2 (1.8.9).jar",
+      "hashes": {
+          "sha1": "b62fa4899b69b803237c791f5f176565ab72310a",
+          "sha512": "54c576f0ce0405384fe05380640c27fbe7210600f725fdca9501e8d93d4e4a678b9498fb8f4487d7d988bcb5f6d942cc46e7658116f8483f4ecffcad94bd19a9"
+      },
+      "downloads": [
+          "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick%20Hider-6.0.2%20(1.8.9).jar"
+      ],
+      "fileSize": 49534
+    },
+    {
+      "path": "mods/NoScamSpam-0.1.3.jar",
+      "hashes": {
+          "sha1": "ac7dd289c9101a4d1df55dae0c5359eb7c7406b9",
+          "sha512": "81d12f09988dbd27bc94021e0322d5566f5c2515c47c98424978e681313d47cbdca911ea8632482e524e89888b0ba5d35aa9ba5a1afc54eed8c268184517d06e"
+      },
+      "downloads": [
+          "https://github.com/symt/NoScamSpam/releases/download/0.1.3/NoScamSpam-0.1.3.jar"
+      ],
+      "fileSize": 18707
+    },
+    {
+      "path": "mods/NotEnoughCoins-1.0-all.jar",
+      "hashes": {
+          "sha1": "67e0c89be7a64502341f753a99a9425f418574e1",
+          "sha512": "d2926f479ef377efcf3e9e5e23ecdd97b6329d42ac61efd821d337fa1d033c26fde6f7f1c8211e8f030f247ca0d66c90744e435d380b94b75426c39af0c4c2ff"
+      },
+      "downloads": [
+          "https://github.com/NotEnoughCoins/NotEnoughCoins/releases/download/v1.0/NotEnoughCoins-1.0-all.jar",
+          "https://github.com/AstrqlDev/NotEnoughCoins/releases/download/Release/NotEnoughCoins-1.0-all.jar"
+      ],
+      "fileSize": 1228044
+    },
+    {
+      "path": "mods/NotEnoughUpdates-2.1.1-pre-1.jar",
+      "hashes": {
+          "sha1": "8df58745ab3e2987c54580a116f4cf7d0e60db32",
+          "sha512": "b7173dcf41d4e2725657c9f1cc00e90849b1149b5ffcec70a3f4da1e06b24c6cd32b126445e45719e755fb790045d67a48fd66c52be13feb77079da610206df3"
+      },
+      "downloads": [
+          "https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/download/v2.1.1-pre1/NotEnoughUpdates-2.1.1-pre-1.jar"
+      ],
+      "fileSize": 20198365
+    },
+    {
+      "path": "mods/Optibye-1.0.0-dep.jar",
+      "hashes": {
+          "sha1": "147b94a2983d7aee5ebc463637472a8bf5117f6d",
+          "sha512": "fc8e97fd95c1940e5ec2017acd35cd0db03d032991e9b1b01d71c12f09b24b34942a26a7b8be7d2be7759c6f7a85135721a055eca236c3ca3a518befb937c1ce"
+      },
+      "downloads": [
+          "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/Optibye-1.0.0-dep.jar"
+      ],
+      "fileSize": 976854
+    },
+    {
+      "path": "mods/OptiFine_1.8.9_HD_U_M5.jar",
+      "hashes": {
+          "sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd",
+          "sha512": "459dd48fd88cbf3e91e7b02790e272279465978a5bde8e85409afa28cd1b0c9022195588afcc2f63acdec5688ac3e93adf7e9870da28548c3b1c292a598426de"
+      },
+      "downloads": [
+          "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar"
+      ],
+      "fileSize": 2585014
+    },
+    {
+      "path": "mods/Patcher-1.8.5 (1.8.9).jar",
+      "hashes": {
+          "sha1": "cc5fe1330f59b2319dbfa2d9597c1101837e8933",
+          "sha512": "bbe405544783193d82b03885c87c21376be463e283b3646f8870db41186ea47393811e3031eea4e69dca9e59925e90e1a5f1256a3d4237843f89f5accf829721"
+      },
+      "downloads": [
+          "https://static.sk1er.club/repo/mods/patcher/1.8.5/1.8.9/Patcher-1.8.5%20(1.8.9).jar"
+      ],
+      "fileSize": 704161
+    },
+    {
+        "path": "mods/Resource_Pack_Manager_1.2.jar",
+        "hashes": {
+            "sha1": "f63fadf325c5018e5ea2c312525ba8975b3424b1",
+            "sha512": "513fd9753fde565fb87790d28178260cdccd71062cafc002d62c90cea22cbf44728a0731e9e882f42143c3a001d7226dcfb11246d5b464f9f0ba438e67778ca4"
+        },
+        "downloads": [
+            "https://download2298.mediafire.com/wlxj2r28p8tg/99ivjduqwglc7t7/Resource_Pack_Manager_1.2.jar"
+        ],
+        "fileSize": 46475
+    },
+    {
+      "path": "mods/Resource_Pack_Manager_1.2.jar",
+      "hashes": {
+          "sha1": "f63fadf325c5018e5ea2c312525ba8975b3424b1",
+          "sha512": "513fd9753fde565fb87790d28178260cdccd71062cafc002d62c90cea22cbf44728a0731e9e882f42143c3a001d7226dcfb11246d5b464f9f0ba438e67778ca4"
+      },
+      "downloads": [
+          ""
+      ],
+      "fileSize": 46475
+    },
+    {
+      "path": "mods/Scrollable Tooltips-1.4 (1.8.9).jar",
+      "hashes": {
+          "sha1": "8846b3ee2dafd0f4ddb22a30072c344f8ba181a1",
+          "sha512": "d5be0874e605bce465169ec5310586c9d561c30d79fae58c989aa919f06831dc1a4c6c8791d91875754f0a7c38f965fb870f35e2d48f10d35e5d6dfc4d78f367"
+      },
+      "downloads": [
+          "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar"
+      ],
+      "fileSize": 41132
+    },
+    {
+      "path": "mods/SkyblockAddons-1.7.0-for-MC-1.8.9.jar",
+      "hashes": {
+          "sha1": "21ae00ad935949bae1bf955b26774b58028baa43",
+          "sha512": "526da40109e3df6db768e0ba03b16ab7c2ae9673974fbfa17ec105bbe0972195e205293eac32585866f111579255f30f329e9707dc4c43e5eef3b7130c3bffa7"
+      },
+      "downloads": [
+          "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.0/SkyblockAddons-1.7.0-for-MC-1.8.9.jar"
+      ],
+      "fileSize": 3342471
+    },
+    {
+      "path": "mods/SkyblockClient-Updater-1.3.2.jar",
+      "hashes": {
+          "sha1": "920af6c0fe8c07bc991a2473e2bd758377ca45d1",
+          "sha512": "21ef4d2eef57df1349d13aeb5d78d943ab97df6c64f7aa9c44248e779de01c3ba8ee287da9d5c599c5e2f92cde031075d7fb0f18ae8a1a29c716066452ab6d36"
+      },
+      "downloads": [
+          "https://github.com/SkyblockClient/SkyblockClient-Updater/releases/download/v1.3.2/SkyblockClient-Updater-1.3.2.jar"
+      ],
+      "fileSize": 136517
+    },
+    {
+      "path": "mods/Skytils-1.3.0-pre5.jar",
+      "hashes": {
+          "sha1": "e30aecf9b73604be99e47321a8479f757bb87cb0",
+          "sha512": "6bec2799b7e20277d461c73954d22fdcd0d88d42823f5b7387d492ce3c2a73379adcb3cc94f9761946de1d1a5679bf85bd031f2879fd0ced8dda5d5d54450890"
+      },
+      "downloads": [
+          "https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar"
+      ],
+      "fileSize": 13137555
+    },
+    {
+      "path": "mods/SmoothScrollingEverywhere-1.2.jar",
+      "hashes": {
+          "sha1": "0e1602d2b6951848f70bdf93435f10e70f5f2561",
+          "sha512": "66c6c9419f4ef8bfc20dce0bfb93762cea5c25577c47762175a2e10c1810efd3972dceeb221bb4db7f52e39fe5ddce733c07ffe13b9ed04235e04d498fbcc331"
+      },
+      "downloads": [
+          "https://mediafilez.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar"
+      ],
+      "fileSize": 1063410
+    },
+    {
+      "path": "mods/TimeChanger-2.2.1.jar",
+      "hashes": {
+          "sha1": "f7df72fd912a57a065ca81c431f14a72de2dd98c",
+          "sha512": "83897bfb88f286d47cd641fb7671717095a90c65c7d5d9c2381d1afc864eab8753e9f68b59405c77ea6d062090a3b5c67a385b8b98b318df770bc9c6f539dfc9"
+      },
+      "downloads": [
+          "https://github.com/shatterpointy/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar"
+      ],
+      "fileSize": 994552
+    },
+    {
+      "path": "mods/TNT Time-1.1 (1.8.9).jar",
+      "hashes": {
+          "sha1": "46064b814dd2c9191e4098915153d94ccdd2e6c5",
+          "sha512": "0379ad7c0db6d57cf51936bf2ee07cf98dbdb1527b25a19dc67bea1065df8b233cfcbc8f8af06d7f725417bc955a30dc6859ee96f8fc781ef478453d79961cac"
+      },
+      "downloads": [
+          "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar"
+      ],
+      "fileSize": 29070
+    },
+    {
+      "path": "mods/Waypoints_1.0.jar",
+      "hashes": {
+          "sha1": "80f697c64cd8661364c32e8aaaed1700b2b9a3b6",
+          "sha512": "c7e12e5018adae1eac64e2e8436ae5e624de085ece9d41cfd3499978da59451549290bc847f96c35c9257a016cc5eb9f983578a78039ff9c1255369d519705a2"
+      },
+      "downloads": [
+          "https://download947.mediafire.com/8da8n2fgnueg/i0v0iqnqe8xc49y/Waypoints_1.0.jar"
+      ],
+      "fileSize": 41764
+    }
   ],
   "dependencies": {
     "minecraft": "1.8.9",

@@ -1,420 +1,410 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.1",
+  "versionId": "0.1.1",
   "name": "SkyPickle",
   "summary": "A modpack for Hypixel Skyblock.",
   "files": [
     {
-        "path": "mods/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
-        "hashes": {
-            "sha1": "309e954f11df7f73a3b8f9f7f55e4a1574173e31",
-            "sha512": "6285c62c92cf888098be171272f7d49bd83a1fce334137f0d9e6abba1e2141ad4e6a2475c19ac6efa2e25dfe347d4ca4ee4def41b31cd18a499e95edde50b9f9"
-        },
-        "downloads": [
-            "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
-            "https://mediafilez.forgecdn.net/files/3779/886/3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
-        ],
-        "fileSize": 4032173
+      "path": "mods/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
+      "hashes": {
+        "sha1": "309e954f11df7f73a3b8f9f7f55e4a1574173e31",
+        "sha512": "6285c62c92cf888098be171272f7d49bd83a1fce334137f0d9e6abba1e2141ad4e6a2475c19ac6efa2e25dfe347d4ca4ee4def41b31cd18a499e95edde50b9f9"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar",
+        "https://mediafilez.forgecdn.net/files/3779/886/3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
+      ],
+      "fileSize": 4032173
     },
     {
-        "path": "mods/apec-1.10.3.jar",
-        "hashes": {
-            "sha1": "7acb2a6bad7a576eceb8f62e1fdf45de04732c30",
-            "sha512": "8b1d27e2c1af280a81c4d6b44d8483fe2b6300ea782e5941217b5e459f19517016fc025460cf85ca9d2cc8d2c78752945278e77c8ff440e220c629985c965136"
-        },
-        "downloads": [
-            "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar"
-        ],
-        "fileSize": 284929
+      "path": "mods/apec-1.10.3.jar",
+      "hashes": {
+        "sha1": "7acb2a6bad7a576eceb8f62e1fdf45de04732c30",
+        "sha512": "8b1d27e2c1af280a81c4d6b44d8483fe2b6300ea782e5941217b5e459f19517016fc025460cf85ca9d2cc8d2c78752945278e77c8ff440e220c629985c965136"
+      },
+      "downloads": [
+        "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar"
+      ],
+      "fileSize": 284929
     },
     {
       "path": "mods/Autotip-3.0.1 [1.8-1.12.2].jar",
       "hashes": {
-          "sha1": "94fe4ad756aee3d29175fc7f8c3781bedcff6262",
-          "sha512": "717fc39a6a6e5857437403e33b9ec38a4d21f31f7bf84c00b1c6414473aaeeb69b35526d271ef8bebd0a27753b23ee4c880c4bb19f30d433e7541cec4ed67cde"
-        },
-      "downloads": [
-          "https://dl.autotip.pro/3.0.1"
-      ],
+        "sha1": "94fe4ad756aee3d29175fc7f8c3781bedcff6262",
+        "sha512": "717fc39a6a6e5857437403e33b9ec38a4d21f31f7bf84c00b1c6414473aaeeb69b35526d271ef8bebd0a27753b23ee4c880c4bb19f30d433e7541cec4ed67cde"
+      },
+      "downloads": ["https://dl.autotip.pro/3.0.1"],
       "fileSize": 142998
     },
     {
-        "path": "mods/BazaarNotifier-1.4.12.jar",
-        "hashes": {
-            "sha1": "ff4da5cdde15c2bda7bef2c2437824b642e7b65c",
-            "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
-        },
-        "downloads": [
-            "https://github.com/symt/BazaarNotifier/releases/download/1.4.12/BazaarNotifier-1.4.12.jar"
-        ],
-        "fileSize": 121912
+      "path": "mods/BazaarNotifier-1.4.12.jar",
+      "hashes": {
+        "sha1": "ff4da5cdde15c2bda7bef2c2437824b642e7b65c",
+        "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
+      },
+      "downloads": [
+        "https://github.com/symt/BazaarNotifier/releases/download/1.4.12/BazaarNotifier-1.4.12.jar"
+      ],
+      "fileSize": 121912
     },
     {
-        "path": "mods/betterchat-1.5.jar",
-        "hashes": {
-            "sha1": "ea8b9a98c8df2aa39b589284640105bd8ac989f7",
-            "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
-        },
-        "downloads": [
-            "https://mediafilez.forgecdn.net/files/3249/65/betterchat-1.5.jar"
-        ],
-        "fileSize": 998748
+      "path": "mods/betterchat-1.5.jar",
+      "hashes": {
+        "sha1": "ea8b9a98c8df2aa39b589284640105bd8ac989f7",
+        "sha512": "0e911d8a8666b7d0e8abb00827b5c2406884a996d6cd9300e334ea39b267237ecaa583ea15c10c4ee4626bb7f49fc199bc1353cd9dc3854dc9ddeb8d6d70cd20"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/3249/65/betterchat-1.5.jar"
+      ],
+      "fileSize": 998748
     },
     {
-        "path": "mods/BetterTab-2.1.jar",
-        "hashes": {
-            "sha1": "ca9fc948906425db202b665e7f8f90115295c9f8",
-            "sha512": "397b927cc5a2be53de73fc64ca2fc6a8d455eccffa3f87897415b775d221770c473922e3435a966c938457188d0e5db000cd467c46ff4c65b172395d976ba610"
-        },
-        "downloads": [
-            "https://files.catbox.moe/q3wuna.mod"
-        ],
-        "fileSize": 31286
+      "path": "mods/BetterTab-2.1.jar",
+      "hashes": {
+        "sha1": "ca9fc948906425db202b665e7f8f90115295c9f8",
+        "sha512": "397b927cc5a2be53de73fc64ca2fc6a8d455eccffa3f87897415b775d221770c473922e3435a966c938457188d0e5db000cd467c46ff4c65b172395d976ba610"
+      },
+      "downloads": ["https://files.catbox.moe/q3wuna.mod"],
+      "fileSize": 31286
     },
     {
-        "path": "mods/Chatting-1.4.1.jar",
-        "hashes": {
-            "sha1": "a1075889d498154dd1a5e4ec76a4b86cecdcde7d",
-            "sha512": "cfebe66cb7de60d9aafd092ccbd421f6172efb930179ebbe1262119dd5f6429875e67e0683ec8408dbf779892c2680032edc6e5b70f2d29328f2a2d3416bf417"
-        },
-        "downloads": [
-            "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar"
-        ],
-        "fileSize": 168180
+      "path": "mods/Chatting-1.4.1.jar",
+      "hashes": {
+        "sha1": "a1075889d498154dd1a5e4ec76a4b86cecdcde7d",
+        "sha512": "cfebe66cb7de60d9aafd092ccbd421f6172efb930179ebbe1262119dd5f6429875e67e0683ec8408dbf779892c2680032edc6e5b70f2d29328f2a2d3416bf417"
+      },
+      "downloads": [
+        "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar"
+      ],
+      "fileSize": 168180
     },
     {
-        "path": "mods/Cowlection-1.8.9-0.15.0.jar",
-        "hashes": {
-            "sha1": "4e5339a5d4ec05a81b7fac7c4c21475e3794e06f",
-            "sha512": "06070d3077c96e9c7abad0d238383c46fb3240621c0a0902d12921b7ce5c19b3896c26843b93c5787d211c3b546595164c2de75d2b77bd10ecf3a81dcacc9218"
-        },
-        "downloads": [
-            "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.0/Cowlection-1.8.9-0.15.0.jar"
-        ],
-        "fileSize": 468287
+      "path": "mods/Cowlection-1.8.9-0.15.0.jar",
+      "hashes": {
+        "sha1": "4e5339a5d4ec05a81b7fac7c4c21475e3794e06f",
+        "sha512": "06070d3077c96e9c7abad0d238383c46fb3240621c0a0902d12921b7ce5c19b3896c26843b93c5787d211c3b546595164c2de75d2b77bd10ecf3a81dcacc9218"
+      },
+      "downloads": [
+        "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.0/Cowlection-1.8.9-0.15.0.jar"
+      ],
+      "fileSize": 468287
     },
     {
-        "path": "mods/CrashHelper-1.1.2.jar",
-        "hashes": {
-            "sha1": "9c69cf32489641073eebf1d68fe5101e2504e39b",
-            "sha512": "512e37ff97690c62479bab81281c1d5b772d20dad5fbce6f16ba4fd38017dab28647d66d119807bb61938bee589d9f9f49e54990234d64bde3fa7f16de101a13"
-        },
-        "downloads": [
-            "https://dl.isxander.dev/mods/crashhelper/CrashHelper-1.1.2.jar"
-        ],
-        "fileSize": 5331143
+      "path": "mods/CrashHelper-1.1.2.jar",
+      "hashes": {
+        "sha1": "9c69cf32489641073eebf1d68fe5101e2504e39b",
+        "sha512": "512e37ff97690c62479bab81281c1d5b772d20dad5fbce6f16ba4fd38017dab28647d66d119807bb61938bee589d9f9f49e54990234d64bde3fa7f16de101a13"
+      },
+      "downloads": [
+        "https://dl.isxander.dev/mods/crashhelper/CrashHelper-1.1.2.jar"
+      ],
+      "fileSize": 5331143
     },
     {
-        "path": "mods/CrashPatch-1.4.0.jar",
-        "hashes": {
-            "sha1": "3d2f6afadec0b1a93334dd35cb6c62c7c622bce2",
-            "sha512": "476fc2f2fdb08b1b5e9296525f305a1c239cfe40b1ae34c8affc2f28c7dd669c53933be293d6a12a9d565de4155317ec7389e8d0dcc27ca824ad135fdda4038a"
-        },
-        "downloads": [
-            "https://github.com/Polyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar"
-        ],
-        "fileSize": 145584
+      "path": "mods/CrashPatch-1.4.0.jar",
+      "hashes": {
+        "sha1": "3d2f6afadec0b1a93334dd35cb6c62c7c622bce2",
+        "sha512": "476fc2f2fdb08b1b5e9296525f305a1c239cfe40b1ae34c8affc2f28c7dd669c53933be293d6a12a9d565de4155317ec7389e8d0dcc27ca824ad135fdda4038a"
+      },
+      "downloads": [
+        "https://github.com/Polyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar"
+      ],
+      "fileSize": 145584
     },
     {
-        "path": "mods/CustomMainMenu-MC1.8.9-2.0.jar",
-        "hashes": {
-            "sha1": "a87041d6f98fa9364648f84cfefe10f4b4c0f308",
-            "sha512": "501371d9a1b8883756c1cc19ea0a585260c2ff64c1d402a09bc8110c2de13e263942b2eeee15d3961d417223d0adbd5b5dddf8f601c250873e5d01312d266c9c"
-        },
-        "downloads": [
-            "https://mediafilez.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar"
-        ],
-        "fileSize": 169801
+      "path": "mods/CustomMainMenu-MC1.8.9-2.0.jar",
+      "hashes": {
+        "sha1": "a87041d6f98fa9364648f84cfefe10f4b4c0f308",
+        "sha512": "501371d9a1b8883756c1cc19ea0a585260c2ff64c1d402a09bc8110c2de13e263942b2eeee15d3961d417223d0adbd5b5dddf8f601c250873e5d01312d266c9c"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar"
+      ],
+      "fileSize": 169801
     },
     {
-        "path": "mods/Essential-forge_1-8-9.jar",
-        "hashes": {
-            "sha1": "d1340b53e674fffb0bc26a15ac2cad3f9cb4614e",
-            "sha512": "be64557f664440d806cb65d0c6ec80da25b98a6b3272ab6e605259336c14562f7567df06896f788a4b43724732dafd341af1a0cb4b00dbdd3b7fa6f70a223587"
-        },
-        "downloads": [
-            "https://cdn.modrinth.com/data/k2ZPuTBm/versions/1.0.0/Essential-forge_1-8-9.jar",
-            "https://mediafilez.forgecdn.net/files/3545/471/Essential-Forge-1.8.9.jar"
-        ],
-        "fileSize": 26778
+      "path": "mods/Essential-forge_1-8-9.jar",
+      "hashes": {
+        "sha1": "d1340b53e674fffb0bc26a15ac2cad3f9cb4614e",
+        "sha512": "be64557f664440d806cb65d0c6ec80da25b98a6b3272ab6e605259336c14562f7567df06896f788a4b43724732dafd341af1a0cb4b00dbdd3b7fa6f70a223587"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/1.0.0/Essential-forge_1-8-9.jar",
+        "https://mediafilez.forgecdn.net/files/3545/471/Essential-Forge-1.8.9.jar"
+      ],
+      "fileSize": 26778
     },
     {
-        "path": "mods/EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
-        "hashes": {
-            "sha1": "5e42923b897e1a434ee83ddf2ba70b20aacc715f",
-            "sha512": "42075540a97cb284467e5d1439a0e91dcec305169472615e2d7691ee990796280cc3c634bbae72e219fe3699651d22c7546e337c088ee20803655a168b6fea71"
-        },
-        "downloads": [
-            "https://cdn.modrinth.com/data/1yIQcc2b/versions/1.4.0/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar",
-            "https://mediafilez.forgecdn.net/files/3655/289/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar"
-        ],
-        "fileSize": 2263721
+      "path": "mods/EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
+      "hashes": {
+        "sha1": "5e42923b897e1a434ee83ddf2ba70b20aacc715f",
+        "sha512": "42075540a97cb284467e5d1439a0e91dcec305169472615e2d7691ee990796280cc3c634bbae72e219fe3699651d22c7546e337c088ee20803655a168b6fea71"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1yIQcc2b/versions/1.4.0/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar",
+        "https://mediafilez.forgecdn.net/files/3655/289/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar"
+      ],
+      "fileSize": 2263721
     },
     {
-        "path": "mods/FpsReducer-mc1.8.9-1.10.3.jar",
-        "hashes": {
-            "sha1": "3f668578543aaea62195890b7a5a9c6c1272317e",
-            "sha512": "f832d41a4c8fc1baca6107a711638f007e2974960cdb07e9a7d9f5df4e58dce81c362f12a2bb55436a8d3b75eea2f966d85930bf8162bd0787e2cace0293db22"
-        },
-        "downloads": [
-            "https://mediafilez.forgecdn.net/files/2627/304/FpsReducer-mc1.8.9-1.10.3.jar"
-        ],
-        "fileSize": 43481
+      "path": "mods/FpsReducer-mc1.8.9-1.10.3.jar",
+      "hashes": {
+        "sha1": "3f668578543aaea62195890b7a5a9c6c1272317e",
+        "sha512": "f832d41a4c8fc1baca6107a711638f007e2974960cdb07e9a7d9f5df4e58dce81c362f12a2bb55436a8d3b75eea2f966d85930bf8162bd0787e2cace0293db22"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/2627/304/FpsReducer-mc1.8.9-1.10.3.jar"
+      ],
+      "fileSize": 43481
     },
     {
-        "path": "mods/Hypixel Autocomplete-1.1 (1.8.9).jar",
-        "hashes": {
-            "sha1": "bfd8bc0eced4cf27dccb6f721ef6b41e4abea298",
-            "sha512": "729c4af4afac13dd928fdac9cc57cd185a74ef16dd2f5724636d8fa27e45093934ff477d16a37aad29b8ad3bdb55817e65d53d7b6ad965ef95a95cc9ca7b95a5"
-        },
-        "downloads": [
-            "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
-        ],
-        "fileSize": 46566
+      "path": "mods/Hypixel Autocomplete-1.1 (1.8.9).jar",
+      "hashes": {
+        "sha1": "bfd8bc0eced4cf27dccb6f721ef6b41e4abea298",
+        "sha512": "729c4af4afac13dd928fdac9cc57cd185a74ef16dd2f5724636d8fa27e45093934ff477d16a37aad29b8ad3bdb55817e65d53d7b6ad965ef95a95cc9ca7b95a5"
+      },
+      "downloads": [
+        "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
+      ],
+      "fileSize": 46566
     },
     {
-        "path": "mods/Hytils-Reborn-1.5.0.jar",
-        "hashes": {
-            "sha1": "aa37bbbe66bafebc5226bdcca87824bce9476fb5",
-            "sha512": "4f6895954f8779e22c2388ccf60398d47febb31500ac01fae2f1dddcd18a404fdaea2beb7e540cddd40a98fc2b103a9d08777e617faa6854b0e2a87035b43a89"
-        },
-        "downloads": [
-            "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar"
-        ],
-        "fileSize": 298486
-    },
-      {
-        "path": "mods/Insomnia-1.0-REL.jar",
-        "hashes": {
-            "sha1": "b65fd1c54a8e385a9826c41fadd19ba1c41c6316",
-            "sha512": "1a8c1adcb43335f692495fbbd24899fa114179d76132aa660d3312a8825928fed1cb135d2e229fd827ce29756d6db0cb148a6ea162e2072f040eb75e978bd943"
-        },
-        "downloads": [
-            "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar"
-        ],
-        "fileSize": 983969
+      "path": "mods/Hytils-Reborn-1.5.0.jar",
+      "hashes": {
+        "sha1": "aa37bbbe66bafebc5226bdcca87824bce9476fb5",
+        "sha512": "4f6895954f8779e22c2388ccf60398d47febb31500ac01fae2f1dddcd18a404fdaea2beb7e540cddd40a98fc2b103a9d08777e617faa6854b0e2a87035b43a89"
+      },
+      "downloads": [
+        "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar"
+      ],
+      "fileSize": 298486
     },
     {
-        "path": "mods/ItemPhysic Lite 1.3.jar",
-        "hashes": {
-            "sha1": "8f06ce3931e0356b796202f0ed1d85dcaad371e3",
-            "sha512": "ada00643de30811ae3c22ad70226ae095566124a5b01237bf7b53eebb18cc47ec95df9c769c66e20a4163e83d1b2feffad9040ecdea329b20ffe8ae64cdfe4dd"
-        },
-        "downloads": [
-            "https://mediafilez.forgecdn.net/files/2439/695/ItemPhysic%20Lite%201.3%20mc1.8.9.jar"
-        ],
-        "fileSize": 30766
+      "path": "mods/Insomnia-1.0-REL.jar",
+      "hashes": {
+        "sha1": "b65fd1c54a8e385a9826c41fadd19ba1c41c6316",
+        "sha512": "1a8c1adcb43335f692495fbbd24899fa114179d76132aa660d3312a8825928fed1cb135d2e229fd827ce29756d6db0cb148a6ea162e2072f040eb75e978bd943"
+      },
+      "downloads": [
+        "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar"
+      ],
+      "fileSize": 983969
+    },
+    {
+      "path": "mods/ItemPhysic Lite 1.3.jar",
+      "hashes": {
+        "sha1": "8f06ce3931e0356b796202f0ed1d85dcaad371e3",
+        "sha512": "ada00643de30811ae3c22ad70226ae095566124a5b01237bf7b53eebb18cc47ec95df9c769c66e20a4163e83d1b2feffad9040ecdea329b20ffe8ae64cdfe4dd"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/2439/695/ItemPhysic%20Lite%201.3%20mc1.8.9.jar"
+      ],
+      "fileSize": 30766
     },
     {
       "path": "mods/itlt-1.8.8-9-1.0.2.jar",
       "hashes": {
-          "sha1": "b651daa98b38df9736046104e691803edbe632d3",
-          "sha512": "cc6c8d813abde955a4489b58196718ab1774ba10a322e5137ef3f6adbddd492a5915054c33643a3b2e3f066c712249fdbb0f774d970a8dc6f5b89258de43db4f"
+        "sha1": "b651daa98b38df9736046104e691803edbe632d3",
+        "sha512": "cc6c8d813abde955a4489b58196718ab1774ba10a322e5137ef3f6adbddd492a5915054c33643a3b2e3f066c712249fdbb0f774d970a8dc6f5b89258de43db4f"
       },
       "downloads": [
-          "https://mediafilez.forgecdn.net/files/3624/343/itlt-1.8.8-9-1.0.2.jar"
+        "https://mediafilez.forgecdn.net/files/3624/343/itlt-1.8.8-9-1.0.2.jar"
       ],
       "fileSize": 14838
     },
     {
       "path": "mods/JoypadMod-1.8.9-11.15.1.1722.jar",
-      "hashes":{
-          "sha1": "f3f27525fd7dc73970aeda40561a993d67446e31",
-          "sha512": "14bdf53d64af06880ed682bda9a52c3b4d24e31ab767a0125b3ee42f1a8f58f462e4bfd819aa25b09dd619953327f86ace4dcca4a5502aed17702d8eb485149f"
+      "hashes": {
+        "sha1": "f3f27525fd7dc73970aeda40561a993d67446e31",
+        "sha512": "14bdf53d64af06880ed682bda9a52c3b4d24e31ab767a0125b3ee42f1a8f58f462e4bfd819aa25b09dd619953327f86ace4dcca4a5502aed17702d8eb485149f"
       },
-      "downloads": [
-          "https://files.catbox.moe/d2tdbz.mod"
-      ],
+      "downloads": ["https://files.catbox.moe/d2tdbz.mod"],
       "fileSize": "3383342"
     },
     {
       "path": "mods/Nick Hider-6.0.2 (1.8.9).jar",
       "hashes": {
-          "sha1": "b62fa4899b69b803237c791f5f176565ab72310a",
-          "sha512": "54c576f0ce0405384fe05380640c27fbe7210600f725fdca9501e8d93d4e4a678b9498fb8f4487d7d988bcb5f6d942cc46e7658116f8483f4ecffcad94bd19a9"
+        "sha1": "b62fa4899b69b803237c791f5f176565ab72310a",
+        "sha512": "54c576f0ce0405384fe05380640c27fbe7210600f725fdca9501e8d93d4e4a678b9498fb8f4487d7d988bcb5f6d942cc46e7658116f8483f4ecffcad94bd19a9"
       },
       "downloads": [
-          "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick%20Hider-6.0.2%20(1.8.9).jar"
+        "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick%20Hider-6.0.2%20(1.8.9).jar"
       ],
       "fileSize": 49534
     },
     {
       "path": "mods/NoScamSpam-0.1.3.jar",
       "hashes": {
-          "sha1": "ac7dd289c9101a4d1df55dae0c5359eb7c7406b9",
-          "sha512": "81d12f09988dbd27bc94021e0322d5566f5c2515c47c98424978e681313d47cbdca911ea8632482e524e89888b0ba5d35aa9ba5a1afc54eed8c268184517d06e"
+        "sha1": "ac7dd289c9101a4d1df55dae0c5359eb7c7406b9",
+        "sha512": "81d12f09988dbd27bc94021e0322d5566f5c2515c47c98424978e681313d47cbdca911ea8632482e524e89888b0ba5d35aa9ba5a1afc54eed8c268184517d06e"
       },
       "downloads": [
-          "https://github.com/symt/NoScamSpam/releases/download/0.1.3/NoScamSpam-0.1.3.jar"
+        "https://github.com/symt/NoScamSpam/releases/download/0.1.3/NoScamSpam-0.1.3.jar"
       ],
       "fileSize": 18707
     },
     {
       "path": "mods/NotEnoughCoins-1.0-all.jar",
       "hashes": {
-          "sha1": "67e0c89be7a64502341f753a99a9425f418574e1",
-          "sha512": "d2926f479ef377efcf3e9e5e23ecdd97b6329d42ac61efd821d337fa1d033c26fde6f7f1c8211e8f030f247ca0d66c90744e435d380b94b75426c39af0c4c2ff"
+        "sha1": "67e0c89be7a64502341f753a99a9425f418574e1",
+        "sha512": "d2926f479ef377efcf3e9e5e23ecdd97b6329d42ac61efd821d337fa1d033c26fde6f7f1c8211e8f030f247ca0d66c90744e435d380b94b75426c39af0c4c2ff"
       },
       "downloads": [
-          "https://github.com/NotEnoughCoins/NotEnoughCoins/releases/download/v1.0/NotEnoughCoins-1.0-all.jar",
-          "https://github.com/AstrqlDev/NotEnoughCoins/releases/download/Release/NotEnoughCoins-1.0-all.jar"
+        "https://github.com/NotEnoughCoins/NotEnoughCoins/releases/download/v1.0/NotEnoughCoins-1.0-all.jar",
+        "https://github.com/AstrqlDev/NotEnoughCoins/releases/download/Release/NotEnoughCoins-1.0-all.jar"
       ],
       "fileSize": 1228044
     },
     {
       "path": "mods/NotEnoughUpdates-2.1.1-pre-1.jar",
       "hashes": {
-          "sha1": "8df58745ab3e2987c54580a116f4cf7d0e60db32",
-          "sha512": "b7173dcf41d4e2725657c9f1cc00e90849b1149b5ffcec70a3f4da1e06b24c6cd32b126445e45719e755fb790045d67a48fd66c52be13feb77079da610206df3"
+        "sha1": "8df58745ab3e2987c54580a116f4cf7d0e60db32",
+        "sha512": "b7173dcf41d4e2725657c9f1cc00e90849b1149b5ffcec70a3f4da1e06b24c6cd32b126445e45719e755fb790045d67a48fd66c52be13feb77079da610206df3"
       },
       "downloads": [
-          "https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/download/v2.1.1-pre1/NotEnoughUpdates-2.1.1-pre-1.jar"
+        "https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/download/v2.1.1-pre1/NotEnoughUpdates-2.1.1-pre-1.jar"
       ],
       "fileSize": 20198365
     },
     {
       "path": "mods/Optibye-1.0.0-dep.jar",
       "hashes": {
-          "sha1": "147b94a2983d7aee5ebc463637472a8bf5117f6d",
-          "sha512": "fc8e97fd95c1940e5ec2017acd35cd0db03d032991e9b1b01d71c12f09b24b34942a26a7b8be7d2be7759c6f7a85135721a055eca236c3ca3a518befb937c1ce"
+        "sha1": "147b94a2983d7aee5ebc463637472a8bf5117f6d",
+        "sha512": "fc8e97fd95c1940e5ec2017acd35cd0db03d032991e9b1b01d71c12f09b24b34942a26a7b8be7d2be7759c6f7a85135721a055eca236c3ca3a518befb937c1ce"
       },
       "downloads": [
-          "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/Optibye-1.0.0-dep.jar"
+        "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/Optibye-1.0.0-dep.jar"
       ],
       "fileSize": 976854
     },
     {
       "path": "mods/OptiFine_1.8.9_HD_U_M5.jar",
       "hashes": {
-          "sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd",
-          "sha512": "459dd48fd88cbf3e91e7b02790e272279465978a5bde8e85409afa28cd1b0c9022195588afcc2f63acdec5688ac3e93adf7e9870da28548c3b1c292a598426de"
+        "sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd",
+        "sha512": "459dd48fd88cbf3e91e7b02790e272279465978a5bde8e85409afa28cd1b0c9022195588afcc2f63acdec5688ac3e93adf7e9870da28548c3b1c292a598426de"
       },
-      "downloads": [
-          "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar"
-      ],
+      "downloads": ["http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar"],
       "fileSize": 2585014
     },
     {
       "path": "mods/Patcher-1.8.5 (1.8.9).jar",
       "hashes": {
-          "sha1": "cc5fe1330f59b2319dbfa2d9597c1101837e8933",
-          "sha512": "bbe405544783193d82b03885c87c21376be463e283b3646f8870db41186ea47393811e3031eea4e69dca9e59925e90e1a5f1256a3d4237843f89f5accf829721"
+        "sha1": "cc5fe1330f59b2319dbfa2d9597c1101837e8933",
+        "sha512": "bbe405544783193d82b03885c87c21376be463e283b3646f8870db41186ea47393811e3031eea4e69dca9e59925e90e1a5f1256a3d4237843f89f5accf829721"
       },
       "downloads": [
-          "https://static.sk1er.club/repo/mods/patcher/1.8.5/1.8.9/Patcher-1.8.5%20(1.8.9).jar"
+        "https://static.sk1er.club/repo/mods/patcher/1.8.5/1.8.9/Patcher-1.8.5%20(1.8.9).jar"
       ],
       "fileSize": 704161
     },
     {
-        "path": "mods/Resource_Pack_Manager_1.2.jar",
-        "hashes": {
-            "sha1": "f63fadf325c5018e5ea2c312525ba8975b3424b1",
-            "sha512": "513fd9753fde565fb87790d28178260cdccd71062cafc002d62c90cea22cbf44728a0731e9e882f42143c3a001d7226dcfb11246d5b464f9f0ba438e67778ca4"
-        },
-        "downloads": [
-            "https://download2298.mediafire.com/wlxj2r28p8tg/99ivjduqwglc7t7/Resource_Pack_Manager_1.2.jar",
-            "https://files.catbox.moe/a19gho.mod"
-        ],
-        "fileSize": 46475
+      "path": "mods/Resource_Pack_Manager_1.2.jar",
+      "hashes": {
+        "sha1": "f63fadf325c5018e5ea2c312525ba8975b3424b1",
+        "sha512": "513fd9753fde565fb87790d28178260cdccd71062cafc002d62c90cea22cbf44728a0731e9e882f42143c3a001d7226dcfb11246d5b464f9f0ba438e67778ca4"
+      },
+      "downloads": [
+        "https://download2298.mediafire.com/wlxj2r28p8tg/99ivjduqwglc7t7/Resource_Pack_Manager_1.2.jar",
+        "https://files.catbox.moe/a19gho.mod"
+      ],
+      "fileSize": 46475
     },
     {
       "path": "mods/Scrollable Tooltips-1.4 (1.8.9).jar",
       "hashes": {
-          "sha1": "8846b3ee2dafd0f4ddb22a30072c344f8ba181a1",
-          "sha512": "d5be0874e605bce465169ec5310586c9d561c30d79fae58c989aa919f06831dc1a4c6c8791d91875754f0a7c38f965fb870f35e2d48f10d35e5d6dfc4d78f367"
+        "sha1": "8846b3ee2dafd0f4ddb22a30072c344f8ba181a1",
+        "sha512": "d5be0874e605bce465169ec5310586c9d561c30d79fae58c989aa919f06831dc1a4c6c8791d91875754f0a7c38f965fb870f35e2d48f10d35e5d6dfc4d78f367"
       },
       "downloads": [
-          "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar"
+        "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar"
       ],
       "fileSize": 41132
     },
     {
       "path": "mods/SkyblockAddons-1.7.0-for-MC-1.8.9.jar",
       "hashes": {
-          "sha1": "21ae00ad935949bae1bf955b26774b58028baa43",
-          "sha512": "526da40109e3df6db768e0ba03b16ab7c2ae9673974fbfa17ec105bbe0972195e205293eac32585866f111579255f30f329e9707dc4c43e5eef3b7130c3bffa7"
+        "sha1": "21ae00ad935949bae1bf955b26774b58028baa43",
+        "sha512": "526da40109e3df6db768e0ba03b16ab7c2ae9673974fbfa17ec105bbe0972195e205293eac32585866f111579255f30f329e9707dc4c43e5eef3b7130c3bffa7"
       },
       "downloads": [
-          "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.0/SkyblockAddons-1.7.0-for-MC-1.8.9.jar"
+        "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.0/SkyblockAddons-1.7.0-for-MC-1.8.9.jar"
       ],
       "fileSize": 3342471
     },
     {
       "path": "mods/SkyblockClient-Updater-1.3.2.jar",
       "hashes": {
-          "sha1": "920af6c0fe8c07bc991a2473e2bd758377ca45d1",
-          "sha512": "21ef4d2eef57df1349d13aeb5d78d943ab97df6c64f7aa9c44248e779de01c3ba8ee287da9d5c599c5e2f92cde031075d7fb0f18ae8a1a29c716066452ab6d36"
+        "sha1": "920af6c0fe8c07bc991a2473e2bd758377ca45d1",
+        "sha512": "21ef4d2eef57df1349d13aeb5d78d943ab97df6c64f7aa9c44248e779de01c3ba8ee287da9d5c599c5e2f92cde031075d7fb0f18ae8a1a29c716066452ab6d36"
       },
       "downloads": [
-          "https://github.com/SkyblockClient/SkyblockClient-Updater/releases/download/v1.3.2/SkyblockClient-Updater-1.3.2.jar"
+        "https://github.com/SkyblockClient/SkyblockClient-Updater/releases/download/v1.3.2/SkyblockClient-Updater-1.3.2.jar"
       ],
       "fileSize": 136517
     },
     {
       "path": "mods/Skytils-1.3.0-pre5.jar",
       "hashes": {
-          "sha1": "e30aecf9b73604be99e47321a8479f757bb87cb0",
-          "sha512": "6bec2799b7e20277d461c73954d22fdcd0d88d42823f5b7387d492ce3c2a73379adcb3cc94f9761946de1d1a5679bf85bd031f2879fd0ced8dda5d5d54450890"
+        "sha1": "e30aecf9b73604be99e47321a8479f757bb87cb0",
+        "sha512": "6bec2799b7e20277d461c73954d22fdcd0d88d42823f5b7387d492ce3c2a73379adcb3cc94f9761946de1d1a5679bf85bd031f2879fd0ced8dda5d5d54450890"
       },
       "downloads": [
-          "https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar"
+        "https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0-pre5/Skytils-1.3.0-pre5.jar"
       ],
       "fileSize": 13137555
     },
     {
       "path": "mods/SimpleToggleSprint-2.2.0.jar",
       "hashes": {
-          "sha1": "cfa6aa4a86eb979f51ba46ab4a63b80115fcaca1",
-          "sha512": "18395105d42b58fc021a5b6ef3cb6686cc555b414b873ea2902a1c81341a699f908bd6f356c223b44322ba46cab02dcc51690bd43d3a7404ca530b40a4d29faa"
+        "sha1": "cfa6aa4a86eb979f51ba46ab4a63b80115fcaca1",
+        "sha512": "18395105d42b58fc021a5b6ef3cb6686cc555b414b873ea2902a1c81341a699f908bd6f356c223b44322ba46cab02dcc51690bd43d3a7404ca530b40a4d29faa"
       },
       "downloads": [
-          "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar"
+        "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar"
       ],
       "fileSize": 97846
     },
     {
       "path": "mods/SmoothScrollingEverywhere-1.2.jar",
       "hashes": {
-          "sha1": "0e1602d2b6951848f70bdf93435f10e70f5f2561",
-          "sha512": "66c6c9419f4ef8bfc20dce0bfb93762cea5c25577c47762175a2e10c1810efd3972dceeb221bb4db7f52e39fe5ddce733c07ffe13b9ed04235e04d498fbcc331"
+        "sha1": "0e1602d2b6951848f70bdf93435f10e70f5f2561",
+        "sha512": "66c6c9419f4ef8bfc20dce0bfb93762cea5c25577c47762175a2e10c1810efd3972dceeb221bb4db7f52e39fe5ddce733c07ffe13b9ed04235e04d498fbcc331"
       },
       "downloads": [
-          "https://mediafilez.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar"
+        "https://mediafilez.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar"
       ],
       "fileSize": 1063410
     },
     {
       "path": "mods/TimeChanger-2.2.1.jar",
       "hashes": {
-          "sha1": "f7df72fd912a57a065ca81c431f14a72de2dd98c",
-          "sha512": "83897bfb88f286d47cd641fb7671717095a90c65c7d5d9c2381d1afc864eab8753e9f68b59405c77ea6d062090a3b5c67a385b8b98b318df770bc9c6f539dfc9"
+        "sha1": "f7df72fd912a57a065ca81c431f14a72de2dd98c",
+        "sha512": "83897bfb88f286d47cd641fb7671717095a90c65c7d5d9c2381d1afc864eab8753e9f68b59405c77ea6d062090a3b5c67a385b8b98b318df770bc9c6f539dfc9"
       },
       "downloads": [
-          "https://github.com/shatterpointy/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar"
+        "https://github.com/shatterpointy/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar"
       ],
       "fileSize": 994552
     },
     {
       "path": "mods/TNT Time-1.1 (1.8.9).jar",
       "hashes": {
-          "sha1": "46064b814dd2c9191e4098915153d94ccdd2e6c5",
-          "sha512": "0379ad7c0db6d57cf51936bf2ee07cf98dbdb1527b25a19dc67bea1065df8b233cfcbc8f8af06d7f725417bc955a30dc6859ee96f8fc781ef478453d79961cac"
+        "sha1": "46064b814dd2c9191e4098915153d94ccdd2e6c5",
+        "sha512": "0379ad7c0db6d57cf51936bf2ee07cf98dbdb1527b25a19dc67bea1065df8b233cfcbc8f8af06d7f725417bc955a30dc6859ee96f8fc781ef478453d79961cac"
       },
       "downloads": [
-          "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar"
+        "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar"
       ],
       "fileSize": 29070
     },
     {
       "path": "mods/Waypoints_1.0.jar",
       "hashes": {
-          "sha1": "80f697c64cd8661364c32e8aaaed1700b2b9a3b6",
-          "sha512": "c7e12e5018adae1eac64e2e8436ae5e624de085ece9d41cfd3499978da59451549290bc847f96c35c9257a016cc5eb9f983578a78039ff9c1255369d519705a2"
+        "sha1": "80f697c64cd8661364c32e8aaaed1700b2b9a3b6",
+        "sha512": "c7e12e5018adae1eac64e2e8436ae5e624de085ece9d41cfd3499978da59451549290bc847f96c35c9257a016cc5eb9f983578a78039ff9c1255369d519705a2"
       },
-      "downloads": [
-          "https://files.catbox.moe/x6tqq4.mod"
-      ],
+      "downloads": ["https://files.catbox.moe/x6tqq4.mod"],
       "fileSize": 41764
     }
   ],

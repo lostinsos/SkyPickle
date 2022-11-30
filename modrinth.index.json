@@ -34,7 +34,9 @@
         "sha1": "94fe4ad756aee3d29175fc7f8c3781bedcff6262",
         "sha512": "717fc39a6a6e5857437403e33b9ec38a4d21f31f7bf84c00b1c6414473aaeeb69b35526d271ef8bebd0a27753b23ee4c880c4bb19f30d433e7541cec4ed67cde"
       },
-      "downloads": ["https://dl.autotip.pro/3.0.1"],
+      "downloads": [
+        "https://dl.autotip.pro/3.0.1"
+      ],
       "fileSize": 142998
     },
     {
@@ -65,7 +67,9 @@
         "sha1": "ca9fc948906425db202b665e7f8f90115295c9f8",
         "sha512": "397b927cc5a2be53de73fc64ca2fc6a8d455eccffa3f87897415b775d221770c473922e3435a966c938457188d0e5db000cd467c46ff4c65b172395d976ba610"
       },
-      "downloads": ["https://files.catbox.moe/q3wuna.mod"],
+      "downloads": [
+        "https://files.catbox.moe/q3wuna.mod"
+      ],
       "fileSize": 31286
     },
     {
@@ -219,7 +223,9 @@
         "sha1": "f3f27525fd7dc73970aeda40561a993d67446e31",
         "sha512": "14bdf53d64af06880ed682bda9a52c3b4d24e31ab767a0125b3ee42f1a8f58f462e4bfd819aa25b09dd619953327f86ace4dcca4a5502aed17702d8eb485149f"
       },
-      "downloads": ["https://files.catbox.moe/d2tdbz.mod"],
+      "downloads": [
+        "https://files.catbox.moe/d2tdbz.mod"
+      ],
       "fileSize": "3383342"
     },
     {
@@ -284,7 +290,9 @@
         "sha1": "d362d58a28f5373b141b9e426e8e160638bfafcd",
         "sha512": "459dd48fd88cbf3e91e7b02790e272279465978a5bde8e85409afa28cd1b0c9022195588afcc2f63acdec5688ac3e93adf7e9870da28548c3b1c292a598426de"
       },
-      "downloads": ["http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar"],
+      "downloads": [
+        "http://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar"
+      ],
       "fileSize": 2585014
     },
     {
@@ -404,7 +412,9 @@
         "sha1": "80f697c64cd8661364c32e8aaaed1700b2b9a3b6",
         "sha512": "c7e12e5018adae1eac64e2e8436ae5e624de085ece9d41cfd3499978da59451549290bc847f96c35c9257a016cc5eb9f983578a78039ff9c1255369d519705a2"
       },
-      "downloads": ["https://files.catbox.moe/x6tqq4.mod"],
+      "downloads": [
+        "https://files.catbox.moe/x6tqq4.mod"
+      ],
       "fileSize": 41764
     }
   ],

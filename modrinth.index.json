@@ -407,6 +407,17 @@
       "fileSize": 29070
     },
     {
+      "path": "Xaeros_Minimap_FP21.10.27_Forge_1.8.9.jar",
+      "hashes": {
+        "sha1": "2bcc5bac6cbe6bf0fb88b6e503d8ad47d3101cee",
+        "sha512": "24dccac91e7265d84605f5fce44c76d24b84c9cdfc3f1234f72986f410d28d2bec967f5b9dd1bd2703c44aa463d0f8e3179028878e2f6572677e16d51f9d6b44"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/3897/984/Xaeros_Minimap_FP21.10.27_Forge_1.8.9.jar"
+      ],
+      "fileSize": 745083
+    },
+    {
       "path": "mods/Waypoints_1.0.jar",
       "hashes": {
         "sha1": "80f697c64cd8661364c32e8aaaed1700b2b9a3b6",
